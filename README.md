@@ -2,7 +2,7 @@
 Week-1 Internship Project
 # Project Title: Customer Support Ticket Triage System
 
-## DescriptionThis project focuses on analyzing and processing customer support ticket data using Python. 
+## Description: This project focuses on analyzing and processing customer support ticket data using Python. 
 The dataset is first loaded and explored to understand the number of rows, columns, missing values, and to view sample ticket messages.
 Ticket messages are then cleaned by converting text to lowercase, removing special characters, and eliminating extra spaces to ensure consistency for further analysis.
 A rule-based classification approach is used to categorize each ticket.
